@@ -1,0 +1,7 @@
+peças;
+1 peão;
+2 torre;
+3 cavalo;
+4 bispo;
+5 rainha;
+0 rei;
